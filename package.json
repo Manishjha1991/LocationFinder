@@ -1,0 +1,30 @@
+{
+  "name": "location",
+  "version": "1.0.0",
+  "description": "fetch Location ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manishjha1991/LocationFinder.git"
+  },
+  "keywords": [
+    "location"
+  ],
+  "author": "Manish Kumar Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manishjha1991/LocationFinder/issues"
+  },
+  "homepage": "https://github.com/Manishjha1991/LocationFinder#readme",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "dateformat": "2.0.0",
+    "express": "4.15.2",
+    "mongoose": "4.9.6",
+    "node-each": "1.0.1",
+    "request": "2.81.0"
+  }
+}
